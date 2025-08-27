@@ -1,0 +1,2 @@
+libcares_la-ares_android.lo: ares_android.c /usr/include/stdc-predef.h
+/usr/include/stdc-predef.h:

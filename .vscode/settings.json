@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "inttypes.h": "c",
+        "xquic_typedef.h": "c",
+        "stdio.h": "c",
+        "time.h": "c",
+        "xqc_sample.h": "c",
+        "xqc_bbr.h": "c",
+        "complex": "c",
+        "limits": "c",
+        "functional": "c",
+        "chrono": "c"
+    }
+}
