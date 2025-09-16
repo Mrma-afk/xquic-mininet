@@ -1,196 +1,196 @@
-2025-08-27 16:20:38,886 *** Adding satellite routers
+2025-09-09 16:11:12,112 *** Adding satellite routers
 
-2025-08-27 16:20:38,965 *** Adding Host
+2025-09-09 16:11:12,184 *** Adding Host
 
-2025-08-27 16:20:38,977 *** Adding Link
+2025-09-09 16:11:12,208 *** Adding Link
 
-2025-08-27 16:20:38,977 ***Add in-orbit ISLs
+2025-09-09 16:11:12,208 ***Add in-orbit ISLs
 
-2025-08-27 16:20:38,991 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,006 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,028 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,042 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,066 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,077 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,101 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,112 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,135 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,147 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,170 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,181 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,205 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,216 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,229 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,236 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,244 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,251 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,259 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,267 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,276 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,283 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,300 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,318 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,330 ***Add orbit-to-orbit ISLs
+2025-09-09 16:11:12,225 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,238 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,259 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,280 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,307 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,328 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,353 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,375 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,386 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,393 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,404 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,423 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,450 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,462 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,488 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,510 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,524 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,544 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,571 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,583 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,606 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,628 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,649 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,663 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,672 ***Add orbit-to-orbit ISLs
 
-2025-08-27 16:20:39,335 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,353 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,376 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,395 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,410 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,420 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,431 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,444 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,470 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,490 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,510 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,524 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,541 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,552 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,564 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,571 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,579 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,587 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,610 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,624 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,649 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,664 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,691 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,704 (10.00Mbit 5.9ms delay 0.00000% loss) 
-2025-08-27 16:20:39,715 *** Starting network
+2025-09-09 16:11:12,680 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,699 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,722 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,738 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,765 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,783 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,802 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,824 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,851 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,864 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,889 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,911 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,938 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,960 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:12,986 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:13,002 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:13,030 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:13,047 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:13,076 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:13,094 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:13,119 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:13,130 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:13,156 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:13,176 (10.00Mbit 5.9ms delay 0.00000% loss) 
+2025-09-09 16:11:13,183 *** Starting network
 
-2025-08-27 16:20:39,715 *** Configuring hosts
+2025-09-09 16:11:13,183 *** Configuring hosts
 
-2025-08-27 16:20:39,715 r11 
-2025-08-27 16:20:39,718 r12 
-2025-08-27 16:20:39,721 r13 
-2025-08-27 16:20:39,725 r14 
-2025-08-27 16:20:39,731 r21 
-2025-08-27 16:20:39,739 r22 
-2025-08-27 16:20:39,746 r23 
-2025-08-27 16:20:39,752 r24 
-2025-08-27 16:20:39,756 r31 
-2025-08-27 16:20:39,760 r32 
-2025-08-27 16:20:39,764 r33 
-2025-08-27 16:20:39,771 r34 
-2025-08-27 16:20:39,778 h1 
-2025-08-27 16:20:39,778 *** defaultIntf: warning: h1 has no interfaces
+2025-09-09 16:11:13,183 r11 
+2025-09-09 16:11:13,187 r12 
+2025-09-09 16:11:13,192 r13 
+2025-09-09 16:11:13,199 r14 
+2025-09-09 16:11:13,207 r21 
+2025-09-09 16:11:13,215 r22 
+2025-09-09 16:11:13,222 r23 
+2025-09-09 16:11:13,229 r24 
+2025-09-09 16:11:13,237 r31 
+2025-09-09 16:11:13,244 r32 
+2025-09-09 16:11:13,249 r33 
+2025-09-09 16:11:13,253 r34 
+2025-09-09 16:11:13,257 h1 
+2025-09-09 16:11:13,257 *** defaultIntf: warning: h1 has no interfaces
 
-2025-08-27 16:20:39,781 h2 
-2025-08-27 16:20:39,781 *** defaultIntf: warning: h2 has no interfaces
+2025-09-09 16:11:13,259 h2 
+2025-09-09 16:11:13,259 *** defaultIntf: warning: h2 has no interfaces
 
-2025-08-27 16:20:39,784 
+2025-09-09 16:11:13,262 
 
-2025-08-27 16:20:39,784 *** Starting controllers
+2025-09-09 16:11:13,262 *** Starting controllers
 
-2025-08-27 16:20:39,784 Waiting 3 seconds for sysctl changes to take effect...
+2025-09-09 16:11:13,263 Waiting 3 seconds for sysctl changes to take effect...
 
-2025-08-27 16:20:42,787 starting zebra and ospfd service:
+2025-09-09 16:11:16,266 starting zebra and ospfd service:
 
-2025-08-27 16:20:43,896 *** Routing Table on Router:
+2025-09-09 16:11:17,412 *** Routing Table on Router:
 
-2025-08-27 16:20:43,898 内核 IP 路由表
+2025-09-09 16:11:17,413 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.0.0      0.0.0.0         255.255.255.252 U     0      0        0 r11-eth0
 10.255.0.12     0.0.0.0         255.255.255.252 U     0      0        0 r11-eth1
 10.255.3.0      0.0.0.0         255.255.255.252 U     0      0        0 r11-eth2
 10.255.5.0      0.0.0.0         255.255.255.252 U     0      0        0 r11-eth3
 
-2025-08-27 16:20:44,900 内核 IP 路由表
+2025-09-09 16:11:18,417 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.0.0      0.0.0.0         255.255.255.252 U     0      0        0 r12-eth0
 10.255.0.4      0.0.0.0         255.255.255.252 U     0      0        0 r12-eth1
 10.255.3.4      0.0.0.0         255.255.255.252 U     0      0        0 r12-eth2
 10.255.5.4      0.0.0.0         255.255.255.252 U     0      0        0 r12-eth3
 
-2025-08-27 16:20:45,905 内核 IP 路由表
+2025-09-09 16:11:19,422 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.0.4      0.0.0.0         255.255.255.252 U     0      0        0 r13-eth0
 10.255.0.8      0.0.0.0         255.255.255.252 U     0      0        0 r13-eth1
 10.255.3.8      0.0.0.0         255.255.255.252 U     0      0        0 r13-eth2
 10.255.5.8      0.0.0.0         255.255.255.252 U     0      0        0 r13-eth3
 
-2025-08-27 16:20:46,908 内核 IP 路由表
+2025-09-09 16:11:20,427 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.0.8      0.0.0.0         255.255.255.252 U     0      0        0 r14-eth0
 10.255.0.12     0.0.0.0         255.255.255.252 U     0      0        0 r14-eth1
 10.255.3.12     0.0.0.0         255.255.255.252 U     0      0        0 r14-eth2
 10.255.5.12     0.0.0.0         255.255.255.252 U     0      0        0 r14-eth3
 
-2025-08-27 16:20:47,910 内核 IP 路由表
+2025-09-09 16:11:21,432 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.1.0      0.0.0.0         255.255.255.252 U     0      0        0 r21-eth0
 10.255.1.12     0.0.0.0         255.255.255.252 U     0      0        0 r21-eth1
 10.255.3.0      0.0.0.0         255.255.255.252 U     0      0        0 r21-eth2
 10.255.4.0      0.0.0.0         255.255.255.252 U     0      0        0 r21-eth3
 
-2025-08-27 16:20:48,913 内核 IP 路由表
+2025-09-09 16:11:22,436 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.1.0      0.0.0.0         255.255.255.252 U     0      0        0 r22-eth0
 10.255.1.4      0.0.0.0         255.255.255.252 U     0      0        0 r22-eth1
 10.255.3.4      0.0.0.0         255.255.255.252 U     0      0        0 r22-eth2
 10.255.4.4      0.0.0.0         255.255.255.252 U     0      0        0 r22-eth3
 
-2025-08-27 16:20:49,917 内核 IP 路由表
+2025-09-09 16:11:23,440 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.1.4      0.0.0.0         255.255.255.252 U     0      0        0 r23-eth0
 10.255.1.8      0.0.0.0         255.255.255.252 U     0      0        0 r23-eth1
 10.255.3.8      0.0.0.0         255.255.255.252 U     0      0        0 r23-eth2
 10.255.4.8      0.0.0.0         255.255.255.252 U     0      0        0 r23-eth3
 
-2025-08-27 16:20:50,921 内核 IP 路由表
+2025-09-09 16:11:24,445 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.1.8      0.0.0.0         255.255.255.252 U     0      0        0 r24-eth0
 10.255.1.12     0.0.0.0         255.255.255.252 U     0      0        0 r24-eth1
 10.255.3.12     0.0.0.0         255.255.255.252 U     0      0        0 r24-eth2
 10.255.4.12     0.0.0.0         255.255.255.252 U     0      0        0 r24-eth3
 
-2025-08-27 16:20:51,923 内核 IP 路由表
+2025-09-09 16:11:25,449 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.2.0      0.0.0.0         255.255.255.252 U     0      0        0 r31-eth0
 10.255.2.12     0.0.0.0         255.255.255.252 U     0      0        0 r31-eth1
 10.255.4.0      0.0.0.0         255.255.255.252 U     0      0        0 r31-eth2
 10.255.5.0      0.0.0.0         255.255.255.252 U     0      0        0 r31-eth3
 
-2025-08-27 16:20:52,927 内核 IP 路由表
+2025-09-09 16:11:26,453 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.2.0      0.0.0.0         255.255.255.252 U     0      0        0 r32-eth0
 10.255.2.4      0.0.0.0         255.255.255.252 U     0      0        0 r32-eth1
 10.255.4.4      0.0.0.0         255.255.255.252 U     0      0        0 r32-eth2
 10.255.5.4      0.0.0.0         255.255.255.252 U     0      0        0 r32-eth3
 
-2025-08-27 16:20:53,928 内核 IP 路由表
+2025-09-09 16:11:27,458 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.2.4      0.0.0.0         255.255.255.252 U     0      0        0 r33-eth0
 10.255.2.8      0.0.0.0         255.255.255.252 U     0      0        0 r33-eth1
 10.255.4.8      0.0.0.0         255.255.255.252 U     0      0        0 r33-eth2
 10.255.5.8      0.0.0.0         255.255.255.252 U     0      0        0 r33-eth3
 
-2025-08-27 16:20:54,931 内核 IP 路由表
+2025-09-09 16:11:28,463 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.255.2.8      0.0.0.0         255.255.255.252 U     0      0        0 r34-eth0
 10.255.2.12     0.0.0.0         255.255.255.252 U     0      0        0 r34-eth1
 10.255.4.12     0.0.0.0         255.255.255.252 U     0      0        0 r34-eth2
 10.255.5.12     0.0.0.0         255.255.255.252 U     0      0        0 r34-eth3
 
-2025-08-27 16:20:55,932 *** Starting controller
+2025-09-09 16:11:29,464 *** Starting controller
 
-2025-08-27 16:20:55,933 
+2025-09-09 16:11:29,465 
 
-2025-08-27 16:20:55,933 *** Starting 0 switches
+2025-09-09 16:11:29,465 *** Starting 0 switches
 
-2025-08-27 16:20:55,933 
+2025-09-09 16:11:29,465 
 
-2025-08-27 16:20:55,933 
+2025-09-09 16:11:29,465 
 ****dynamic part one:Initialization****
 
-2025-08-27 16:20:55,946 (5.00Mbit 3.6667ms delay 0.00000% loss) 
-2025-08-27 16:20:55,963 (5.00Mbit 3.6667ms delay 0.00000% loss) 
-2025-08-27 16:20:55,985 (10.00Mbit 3.6667ms delay 0.00000% loss) 
-2025-08-27 16:20:55,998 (10.00Mbit 3.6667ms delay 0.00000% loss) 
-2025-08-27 16:22:06,037 
+2025-09-09 16:11:29,476 (5.00Mbit 3.6667ms delay 0.00000% loss) 
+2025-09-09 16:11:29,496 (5.00Mbit 3.6667ms delay 0.00000% loss) 
+2025-09-09 16:11:29,533 (10.00Mbit 3.6667ms delay 0.00000% loss) 
+2025-09-09 16:11:29,548 (10.00Mbit 3.6667ms delay 0.00000% loss) 
+2025-09-09 16:12:39,612 
 *r11 route table*
 
-2025-08-27 16:22:06,040 内核 IP 路由表
+2025-09-09 16:12:39,618 内核 IP 路由表
 目标            网关            子网掩码        标志  跃点   引用  使用 接口
 10.1.0.0        0.0.0.0         255.255.255.0   U     0      0        0 r11-eth4
 10.2.0.0        10.255.0.13     255.255.255.0   UG    20     0        0 r11-eth1
@@ -230,923 +230,857 @@
 10.255.5.8      10.255.0.2      255.255.255.252 UG    20     0        0 r11-eth0
 10.255.5.12     10.255.0.13     255.255.255.252 UG    20     0        0 r11-eth1
 
-2025-08-27 16:22:08,082 Ping result:
+2025-09-09 16:12:41,664 Ping result:
 PING 10.2.0.200 (10.2.0.200) 56(84) bytes of data.
-64 bytes from 10.2.0.200: icmp_seq=1 ttl=61 time=53.2 ms
+64 bytes from 10.2.0.200: icmp_seq=1 ttl=61 time=54.5 ms
 64 bytes from 10.2.0.200: icmp_seq=2 ttl=61 time=38.6 ms
-64 bytes from 10.2.0.200: icmp_seq=3 ttl=61 time=38.5 ms
+64 bytes from 10.2.0.200: icmp_seq=3 ttl=61 time=39.3 ms
 
 --- 10.2.0.200 ping statistics ---
-3 packets transmitted, 3 received, 0% packet loss, time 2002ms
-rtt min/avg/max/mdev = 38.466/43.439/53.216/6.913 ms
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 38.645/44.140/54.486/7.320 ms
 
 
-2025-08-27 16:22:10,125 Ping result:
+2025-09-09 16:12:43,709 Ping result:
 PING 10.1.0.200 (10.1.0.200) 56(84) bytes of data.
-64 bytes from 10.1.0.200: icmp_seq=1 ttl=61 time=38.5 ms
-64 bytes from 10.1.0.200: icmp_seq=2 ttl=61 time=38.7 ms
-64 bytes from 10.1.0.200: icmp_seq=3 ttl=61 time=38.4 ms
+64 bytes from 10.1.0.200: icmp_seq=1 ttl=61 time=38.7 ms
+64 bytes from 10.1.0.200: icmp_seq=2 ttl=61 time=39.2 ms
+64 bytes from 10.1.0.200: icmp_seq=3 ttl=61 time=39.4 ms
 
 --- 10.1.0.200 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 38.653/39.067/39.350/0.299 ms
+
+
+2025-09-09 16:12:43,715 *** Starting handover_and_rtt_thread_1 ***
+
+2025-09-09 16:12:43,715 
+****xquic begin****
+
+2025-09-09 16:12:43,716 *** Handover cycle count: 3 ***
+
+2025-09-09 16:12:44,718 *** Updating delay to 15.0ms on h1-r11 link ***
+
+2025-09-09 16:12:44,728 [RTT] Delay set to 15.0msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:45,719 *** Updating delay to 14.97ms on h1-r11 link ***
+
+2025-09-09 16:12:45,726 [RTT] Delay set to 14.97msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:46,721 *** Updating delay to 14.89ms on h1-r11 link ***
+
+2025-09-09 16:12:46,729 [RTT] Delay set to 14.89msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:47,722 *** Updating delay to 14.76ms on h1-r11 link ***
+
+2025-09-09 16:12:47,731 [RTT] Delay set to 14.76msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:48,724 *** Updating delay to 14.57ms on h1-r11 link ***
+
+2025-09-09 16:12:48,733 [RTT] Delay set to 14.57msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:49,725 *** Updating delay to 14.33ms on h1-r11 link ***
+
+2025-09-09 16:12:49,735 [RTT] Delay set to 14.33msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:50,727 *** Updating delay to 14.05ms on h1-r11 link ***
+
+2025-09-09 16:12:50,731 [RTT] Delay set to 14.05msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:51,728 *** Updating delay to 13.72ms on h1-r11 link ***
+
+2025-09-09 16:12:51,731 [RTT] Delay set to 13.72msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:52,729 *** Updating delay to 13.35ms on h1-r11 link ***
+
+2025-09-09 16:12:52,739 [RTT] Delay set to 13.35msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:53,731 *** Updating delay to 12.94ms on h1-r11 link ***
+
+2025-09-09 16:12:53,741 [RTT] Delay set to 12.94msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:54,732 *** Updating delay to 12.5ms on h1-r11 link ***
+
+2025-09-09 16:12:54,740 [RTT] Delay set to 12.5msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:55,734 *** Updating delay to 12.03ms on h1-r11 link ***
+
+2025-09-09 16:12:55,743 [RTT] Delay set to 12.03msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:56,736 *** Updating delay to 11.55ms on h1-r11 link ***
+
+2025-09-09 16:12:56,745 [RTT] Delay set to 11.55msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:57,737 *** Updating delay to 11.04ms on h1-r11 link ***
+
+2025-09-09 16:12:57,744 [RTT] Delay set to 11.04msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:58,739 *** Updating delay to 10.52ms on h1-r11 link ***
+
+2025-09-09 16:12:58,748 [RTT] Delay set to 10.52msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:12:59,740 *** Updating delay to 10.0ms on h1-r11 link ***
+
+2025-09-09 16:12:59,749 [RTT] Delay set to 10.0msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:00,741 *** Updating delay to 9.48ms on h1-r11 link ***
+
+2025-09-09 16:13:00,748 [RTT] Delay set to 9.48msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:01,743 *** Updating delay to 8.96ms on h1-r11 link ***
+
+2025-09-09 16:13:01,752 [RTT] Delay set to 8.96msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:02,744 *** Updating delay to 8.45ms on h1-r11 link ***
+
+2025-09-09 16:13:02,754 [RTT] Delay set to 8.45msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:03,745 *** Updating delay to 7.97ms on h1-r11 link ***
+
+2025-09-09 16:13:03,754 [RTT] Delay set to 7.97msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:04,747 *** Updating delay to 7.5ms on h1-r11 link ***
+
+2025-09-09 16:13:04,756 [RTT] Delay set to 7.5msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:05,748 *** Updating delay to 7.06ms on h1-r11 link ***
+
+2025-09-09 16:13:05,757 [RTT] Delay set to 7.06msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:06,749 *** Updating delay to 6.65ms on h1-r11 link ***
+
+2025-09-09 16:13:06,758 [RTT] Delay set to 6.65msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:07,750 *** Updating delay to 6.28ms on h1-r11 link ***
+
+2025-09-09 16:13:07,759 [RTT] Delay set to 6.28msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:08,752 *** Updating delay to 5.95ms on h1-r11 link ***
+
+2025-09-09 16:13:08,760 [RTT] Delay set to 5.95msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:09,753 *** Updating delay to 5.67ms on h1-r11 link ***
+
+2025-09-09 16:13:09,763 [RTT] Delay set to 5.67msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:10,755 *** Updating delay to 5.43ms on h1-r11 link ***
+
+2025-09-09 16:13:10,764 [RTT] Delay set to 5.43msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:11,756 *** Updating delay to 5.24ms on h1-r11 link ***
+
+2025-09-09 16:13:11,765 [RTT] Delay set to 5.24msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:12,757 *** Updating delay to 5.11ms on h1-r11 link ***
+
+2025-09-09 16:13:12,767 [RTT] Delay set to 5.11msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:13,759 *** Updating delay to 5.03ms on h1-r11 link ***
+
+2025-09-09 16:13:13,768 [RTT] Delay set to 5.03msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:14,761 *** Updating delay to 5.0ms on h1-r11 link ***
+
+2025-09-09 16:13:14,769 [RTT] Delay set to 5.0msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:15,763 *** Updating delay to 5.03ms on h1-r11 link ***
+
+2025-09-09 16:13:15,772 [RTT] Delay set to 5.03msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:16,764 *** Updating delay to 5.11ms on h1-r11 link ***
+
+2025-09-09 16:13:16,773 [RTT] Delay set to 5.11msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:17,765 *** Updating delay to 5.24ms on h1-r11 link ***
+
+2025-09-09 16:13:17,773 [RTT] Delay set to 5.24msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:18,767 *** Updating delay to 5.43ms on h1-r11 link ***
+
+2025-09-09 16:13:18,777 [RTT] Delay set to 5.43msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:19,768 *** Updating delay to 5.67ms on h1-r11 link ***
+
+2025-09-09 16:13:19,777 [RTT] Delay set to 5.67msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:20,769 *** Updating delay to 5.95ms on h1-r11 link ***
+
+2025-09-09 16:13:20,775 [RTT] Delay set to 5.95msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:21,770 *** Updating delay to 6.28ms on h1-r11 link ***
+
+2025-09-09 16:13:21,780 [RTT] Delay set to 6.28msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:22,772 *** Updating delay to 6.65ms on h1-r11 link ***
+
+2025-09-09 16:13:22,781 [RTT] Delay set to 6.65msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:23,773 *** Updating delay to 7.06ms on h1-r11 link ***
+
+2025-09-09 16:13:23,782 [RTT] Delay set to 7.06msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:24,775 *** Updating delay to 7.5ms on h1-r11 link ***
+
+2025-09-09 16:13:24,780 [RTT] Delay set to 7.5msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:25,776 *** Updating delay to 7.97ms on h1-r11 link ***
+
+2025-09-09 16:13:25,786 [RTT] Delay set to 7.97msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:26,777 *** Updating delay to 8.45ms on h1-r11 link ***
+
+2025-09-09 16:13:26,787 [RTT] Delay set to 8.45msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:27,779 *** Updating delay to 8.96ms on h1-r11 link ***
+
+2025-09-09 16:13:27,787 [RTT] Delay set to 8.96msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:28,781 *** Updating delay to 9.48ms on h1-r11 link ***
+
+2025-09-09 16:13:28,790 [RTT] Delay set to 9.48msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:29,782 *** Updating delay to 10.0ms on h1-r11 link ***
+
+2025-09-09 16:13:29,792 [RTT] Delay set to 10.0msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:30,784 *** Updating delay to 10.52ms on h1-r11 link ***
+
+2025-09-09 16:13:30,792 [RTT] Delay set to 10.52msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:31,785 *** Updating delay to 11.04ms on h1-r11 link ***
+
+2025-09-09 16:13:31,794 [RTT] Delay set to 11.04msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:32,786 *** Updating delay to 11.55ms on h1-r11 link ***
+
+2025-09-09 16:13:32,795 [RTT] Delay set to 11.55msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:33,788 *** Updating delay to 12.03ms on h1-r11 link ***
+
+2025-09-09 16:13:33,797 [RTT] Delay set to 12.03msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:34,789 *** Updating delay to 12.5ms on h1-r11 link ***
+
+2025-09-09 16:13:34,798 [RTT] Delay set to 12.5msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:35,790 *** Updating delay to 12.94ms on h1-r11 link ***
+
+2025-09-09 16:13:35,796 [RTT] Delay set to 12.94msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:36,792 *** Updating delay to 13.35ms on h1-r11 link ***
+
+2025-09-09 16:13:36,795 [RTT] Delay set to 13.35msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:37,793 *** Updating delay to 13.72ms on h1-r11 link ***
+
+2025-09-09 16:13:37,803 [RTT] Delay set to 13.72msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:38,795 *** Updating delay to 14.05ms on h1-r11 link ***
+
+2025-09-09 16:13:38,804 [RTT] Delay set to 14.05msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:39,796 *** Updating delay to 14.33ms on h1-r11 link ***
+
+2025-09-09 16:13:39,804 [RTT] Delay set to 14.33msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:40,798 *** Updating delay to 14.57ms on h1-r11 link ***
+
+2025-09-09 16:13:40,807 [RTT] Delay set to 14.57msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:41,799 *** Updating delay to 14.76ms on h1-r11 link ***
+
+2025-09-09 16:13:41,808 [RTT] Delay set to 14.76msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:42,800 *** Updating delay to 14.89ms on h1-r11 link ***
+
+2025-09-09 16:13:42,810 [RTT] Delay set to 14.89msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:43,801 *** Updating delay to 14.97ms on h1-r11 link ***
+
+2025-09-09 16:13:43,811 [RTT] Delay set to 14.97msms on h1-eth0 and r11-eth4
+
+2025-09-09 16:13:43,811 *** Performing handover, index: 0 ***
+
+2025-09-09 16:13:43,827 ** Disabled link between h1 and r11 **
+
+2025-09-09 16:13:43,827 *** Adding link to r12 with IP 10.1.0.12 ***
+
+2025-09-09 16:13:43,834 (6.00Mbit 3.6667ms delay 0.00000% loss) 
+2025-09-09 16:13:43,848 (6.00Mbit 3.6667ms delay 0.00000% loss) 
+2025-09-09 16:13:43,862 ****11111111111111111***
+
+2025-09-09 16:13:43,866 切换后结果为：
+
+2025-09-09 16:13:43,884 ** h1 connected to r12 with gateway 10.1.0.12 **
+
+2025-09-09 16:13:43,884 *** Applying HTB+NETEM on h1:h1-eth1 for bw=6Mbps delay=15.0ms ***
+
+2025-09-09 16:13:43,916 --- h1 tc show ---
+qdisc htb 1: root refcnt 21 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 1000
+qdisc netem 10: parent 1:1 limit 1000 delay 15ms
+ class htb 1:1 root leaf 10: prio 0 rate 6Mbit ceil 6Mbit burst 1599b cburst 1599b 
+
+2025-09-09 16:13:43,923 --- sat tc show ---
+qdisc htb 1: root refcnt 21 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 1000
+qdisc netem 10: parent 1:1 limit 1000 delay 15ms
+ class htb 1:1 root leaf 10: prio 0 rate 6Mbit ceil 6Mbit burst 1599b cburst 1599b 
+
+2025-09-09 16:13:43,923 ** Pinging from h1 to h2 (10.2.0.200) after connecting to r12 **
+
+2025-09-09 16:13:46,032 Ping result:
+PING 10.2.0.200 (10.2.0.200) 56(84) bytes of data.
+64 bytes from 10.2.0.200: icmp_seq=1 ttl=60 time=104 ms
+64 bytes from 10.2.0.200: icmp_seq=2 ttl=60 time=82.0 ms
+64 bytes from 10.2.0.200: icmp_seq=3 ttl=60 time=104 ms
+
+--- 10.2.0.200 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 81.981/96.681/104.443/10.400 ms
+
+
+2025-09-09 16:13:46,032 *** Updating delay to 15.0ms on h1-r12 link ***
+
+2025-09-09 16:13:46,041 [RTT] Delay set to 15.0msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:47,035 *** Updating delay to 14.97ms on h1-r12 link ***
+
+2025-09-09 16:13:47,042 [RTT] Delay set to 14.97msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:48,036 *** Updating delay to 14.89ms on h1-r12 link ***
+
+2025-09-09 16:13:48,045 [RTT] Delay set to 14.89msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:49,037 *** Updating delay to 14.76ms on h1-r12 link ***
+
+2025-09-09 16:13:49,046 [RTT] Delay set to 14.76msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:50,039 *** Updating delay to 14.57ms on h1-r12 link ***
+
+2025-09-09 16:13:50,047 [RTT] Delay set to 14.57msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:51,040 *** Updating delay to 14.33ms on h1-r12 link ***
+
+2025-09-09 16:13:51,049 [RTT] Delay set to 14.33msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:52,042 *** Updating delay to 14.05ms on h1-r12 link ***
+
+2025-09-09 16:13:52,051 [RTT] Delay set to 14.05msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:53,043 *** Updating delay to 13.72ms on h1-r12 link ***
+
+2025-09-09 16:13:53,051 [RTT] Delay set to 13.72msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:54,045 *** Updating delay to 13.35ms on h1-r12 link ***
+
+2025-09-09 16:13:54,054 [RTT] Delay set to 13.35msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:55,046 *** Updating delay to 12.94ms on h1-r12 link ***
+
+2025-09-09 16:13:55,056 [RTT] Delay set to 12.94msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:56,048 *** Updating delay to 12.5ms on h1-r12 link ***
+
+2025-09-09 16:13:56,057 [RTT] Delay set to 12.5msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:57,049 *** Updating delay to 12.03ms on h1-r12 link ***
+
+2025-09-09 16:13:57,058 [RTT] Delay set to 12.03msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:58,051 *** Updating delay to 11.55ms on h1-r12 link ***
+
+2025-09-09 16:13:58,059 [RTT] Delay set to 11.55msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:13:59,052 *** Updating delay to 11.04ms on h1-r12 link ***
+
+2025-09-09 16:13:59,061 [RTT] Delay set to 11.04msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:00,053 *** Updating delay to 10.52ms on h1-r12 link ***
+
+2025-09-09 16:14:00,063 [RTT] Delay set to 10.52msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:01,055 *** Updating delay to 10.0ms on h1-r12 link ***
+
+2025-09-09 16:14:01,063 [RTT] Delay set to 10.0msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:02,056 *** Updating delay to 9.48ms on h1-r12 link ***
+
+2025-09-09 16:14:02,063 [RTT] Delay set to 9.48msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:03,057 *** Updating delay to 8.96ms on h1-r12 link ***
+
+2025-09-09 16:14:03,066 [RTT] Delay set to 8.96msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:04,059 *** Updating delay to 8.45ms on h1-r12 link ***
+
+2025-09-09 16:14:04,069 [RTT] Delay set to 8.45msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:05,060 *** Updating delay to 7.97ms on h1-r12 link ***
+
+2025-09-09 16:14:05,068 [RTT] Delay set to 7.97msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:06,062 *** Updating delay to 7.5ms on h1-r12 link ***
+
+2025-09-09 16:14:06,071 [RTT] Delay set to 7.5msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:07,063 *** Updating delay to 7.06ms on h1-r12 link ***
+
+2025-09-09 16:14:07,072 [RTT] Delay set to 7.06msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:08,065 *** Updating delay to 6.65ms on h1-r12 link ***
+
+2025-09-09 16:14:08,071 [RTT] Delay set to 6.65msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:09,066 *** Updating delay to 6.28ms on h1-r12 link ***
+
+2025-09-09 16:14:09,075 [RTT] Delay set to 6.28msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:10,067 *** Updating delay to 5.95ms on h1-r12 link ***
+
+2025-09-09 16:14:10,077 [RTT] Delay set to 5.95msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:11,069 *** Updating delay to 5.67ms on h1-r12 link ***
+
+2025-09-09 16:14:11,078 [RTT] Delay set to 5.67msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:12,070 *** Updating delay to 5.43ms on h1-r12 link ***
+
+2025-09-09 16:14:12,075 [RTT] Delay set to 5.43msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:13,071 *** Updating delay to 5.24ms on h1-r12 link ***
+
+2025-09-09 16:14:13,081 [RTT] Delay set to 5.24msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:14,073 *** Updating delay to 5.11ms on h1-r12 link ***
+
+2025-09-09 16:14:14,082 [RTT] Delay set to 5.11msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:15,074 *** Updating delay to 5.03ms on h1-r12 link ***
+
+2025-09-09 16:14:15,082 [RTT] Delay set to 5.03msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:16,075 *** Updating delay to 5.0ms on h1-r12 link ***
+
+2025-09-09 16:14:16,081 [RTT] Delay set to 5.0msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:17,076 *** Updating delay to 5.03ms on h1-r12 link ***
+
+2025-09-09 16:14:17,085 [RTT] Delay set to 5.03msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:18,078 *** Updating delay to 5.11ms on h1-r12 link ***
+
+2025-09-09 16:14:18,087 [RTT] Delay set to 5.11msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:19,079 *** Updating delay to 5.24ms on h1-r12 link ***
+
+2025-09-09 16:14:19,085 [RTT] Delay set to 5.24msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:20,080 *** Updating delay to 5.43ms on h1-r12 link ***
+
+2025-09-09 16:14:20,090 [RTT] Delay set to 5.43msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:21,082 *** Updating delay to 5.67ms on h1-r12 link ***
+
+2025-09-09 16:14:21,091 [RTT] Delay set to 5.67msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:22,083 *** Updating delay to 5.95ms on h1-r12 link ***
+
+2025-09-09 16:14:22,093 [RTT] Delay set to 5.95msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:23,084 *** Updating delay to 6.28ms on h1-r12 link ***
+
+2025-09-09 16:14:23,091 [RTT] Delay set to 6.28msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:24,086 *** Updating delay to 6.65ms on h1-r12 link ***
+
+2025-09-09 16:14:24,095 [RTT] Delay set to 6.65msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:25,087 *** Updating delay to 7.06ms on h1-r12 link ***
+
+2025-09-09 16:14:25,097 [RTT] Delay set to 7.06msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:26,089 *** Updating delay to 7.5ms on h1-r12 link ***
+
+2025-09-09 16:14:26,098 [RTT] Delay set to 7.5msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:27,091 *** Updating delay to 7.97ms on h1-r12 link ***
+
+2025-09-09 16:14:27,100 [RTT] Delay set to 7.97msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:28,092 *** Updating delay to 8.45ms on h1-r12 link ***
+
+2025-09-09 16:14:28,101 [RTT] Delay set to 8.45msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:29,094 *** Updating delay to 8.96ms on h1-r12 link ***
+
+2025-09-09 16:14:29,102 [RTT] Delay set to 8.96msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:30,095 *** Updating delay to 9.48ms on h1-r12 link ***
+
+2025-09-09 16:14:30,102 [RTT] Delay set to 9.48msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:31,096 *** Updating delay to 10.0ms on h1-r12 link ***
+
+2025-09-09 16:14:31,106 [RTT] Delay set to 10.0msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:32,098 *** Updating delay to 10.52ms on h1-r12 link ***
+
+2025-09-09 16:14:32,106 [RTT] Delay set to 10.52msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:33,099 *** Updating delay to 11.04ms on h1-r12 link ***
+
+2025-09-09 16:14:33,107 [RTT] Delay set to 11.04msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:34,100 *** Updating delay to 11.55ms on h1-r12 link ***
+
+2025-09-09 16:14:34,110 [RTT] Delay set to 11.55msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:35,102 *** Updating delay to 12.03ms on h1-r12 link ***
+
+2025-09-09 16:14:35,111 [RTT] Delay set to 12.03msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:36,103 *** Updating delay to 12.5ms on h1-r12 link ***
+
+2025-09-09 16:14:36,108 [RTT] Delay set to 12.5msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:37,104 *** Updating delay to 12.94ms on h1-r12 link ***
+
+2025-09-09 16:14:37,114 [RTT] Delay set to 12.94msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:38,107 *** Updating delay to 13.35ms on h1-r12 link ***
+
+2025-09-09 16:14:38,117 [RTT] Delay set to 13.35msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:39,109 *** Updating delay to 13.72ms on h1-r12 link ***
+
+2025-09-09 16:14:39,112 [RTT] Delay set to 13.72msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:40,110 *** Updating delay to 14.05ms on h1-r12 link ***
+
+2025-09-09 16:14:40,119 [RTT] Delay set to 14.05msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:41,112 *** Updating delay to 14.33ms on h1-r12 link ***
+
+2025-09-09 16:14:41,121 [RTT] Delay set to 14.33msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:42,113 *** Updating delay to 14.57ms on h1-r12 link ***
+
+2025-09-09 16:14:42,122 [RTT] Delay set to 14.57msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:43,114 *** Updating delay to 14.76ms on h1-r12 link ***
+
+2025-09-09 16:14:43,123 [RTT] Delay set to 14.76msms on h1-eth1 and r12-eth4
+
+2025-09-09 16:14:43,815 *** Performing handover, index: 1 ***
+
+2025-09-09 16:14:43,825 ** Disabled link between h1 and r12 **
+
+2025-09-09 16:14:43,826 *** Adding link to r13 with IP 10.1.0.13 ***
+
+2025-09-09 16:14:43,842 (7.00Mbit 3.6667ms delay 0.00000% loss) 
+2025-09-09 16:14:43,865 (7.00Mbit 3.6667ms delay 0.00000% loss) 
+2025-09-09 16:14:43,877 ****11111111111111111***
+
+2025-09-09 16:14:43,879 切换后结果为：
+
+2025-09-09 16:14:43,887 ** h1 connected to r13 with gateway 10.1.0.13 **
+
+2025-09-09 16:14:43,887 *** Applying HTB+NETEM on h1:h1-eth2 for bw=7Mbps delay=15.0ms ***
+
+2025-09-09 16:14:43,928 --- h1 tc show ---
+qdisc htb 1: root refcnt 21 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 1000
+qdisc netem 10: parent 1:1 limit 1000 delay 15ms
+ class htb 1:1 root leaf 10: prio 0 rate 7Mbit ceil 7Mbit burst 1598b cburst 1598b 
+
+2025-09-09 16:14:43,937 --- sat tc show ---
+qdisc htb 1: root refcnt 21 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 1000
+qdisc netem 10: parent 1:1 limit 1000 delay 15ms
+ class htb 1:1 root leaf 10: prio 0 rate 7Mbit ceil 7Mbit burst 1598b cburst 1598b 
+
+2025-09-09 16:14:43,937 ** Pinging from h1 to h2 (10.2.0.200) after connecting to r13 **
+
+2025-09-09 16:14:46,044 Ping result:
+PING 10.2.0.200 (10.2.0.200) 56(84) bytes of data.
+64 bytes from 10.2.0.200: icmp_seq=1 ttl=61 time=81.5 ms
+64 bytes from 10.2.0.200: icmp_seq=2 ttl=61 time=85.5 ms
+64 bytes from 10.2.0.200: icmp_seq=3 ttl=61 time=102 ms
+
+--- 10.2.0.200 ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss, time 2002ms
-rtt min/avg/max/mdev = 38.447/38.531/38.691/0.113 ms
+rtt min/avg/max/mdev = 81.466/89.692/102.118/8.938 ms
 
 
-2025-08-27 16:22:10,133 *** Starting handover_and_rtt_thread_1 ***
+2025-09-09 16:14:46,044 *** Updating delay to 15.0ms on h1-r13 link ***
 
-2025-08-27 16:22:10,134 *** Handover cycle count: 3 ***
+2025-09-09 16:14:46,050 [RTT] Delay set to 15.0msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:10,135 
-****Performance evaluation with BBR and iperf begin****
+2025-09-09 16:14:47,045 *** Updating delay to 14.97ms on h1-r13 link ***
 
-2025-08-27 16:22:10,135 *** Starting iperf server on h1 ***
+2025-09-09 16:14:47,054 [RTT] Delay set to 14.97msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:11,136 *** Updating delay to 15.0ms on h1-r11 link ***
+2025-09-09 16:14:48,047 *** Updating delay to 14.89ms on h1-r13 link ***
 
-2025-08-27 16:22:11,141 [RTT] Delay set to 15.0msms on h1-eth0 and r11-eth4
+2025-09-09 16:14:48,056 [RTT] Delay set to 14.89msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:12,138 *** Updating delay to 14.97ms on h1-r11 link ***
+2025-09-09 16:14:49,048 *** Updating delay to 14.76ms on h1-r13 link ***
 
-2025-08-27 16:22:12,138 *** Starting iperf client on h2, sending data to h1 (10.1.0.200) for 240s ***
+2025-09-09 16:14:49,058 [RTT] Delay set to 14.76msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:12,148 [RTT] Delay set to 14.97msms on h1-eth0 and r11-eth4
+2025-09-09 16:14:50,050 *** Updating delay to 14.57ms on h1-r13 link ***
 
-2025-08-27 16:22:13,140 *** Updating delay to 14.89ms on h1-r11 link ***
+2025-09-09 16:14:50,059 [RTT] Delay set to 14.57msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:13,148 [RTT] Delay set to 14.89msms on h1-eth0 and r11-eth4
+2025-09-09 16:14:51,051 *** Updating delay to 14.33ms on h1-r13 link ***
 
-2025-08-27 16:22:14,142 *** Updating delay to 14.76ms on h1-r11 link ***
+2025-09-09 16:14:51,060 [RTT] Delay set to 14.33msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:14,147 [RTT] Delay set to 14.76msms on h1-eth0 and r11-eth4
+2025-09-09 16:14:52,052 *** Updating delay to 14.05ms on h1-r13 link ***
 
-2025-08-27 16:22:15,143 *** Updating delay to 14.57ms on h1-r11 link ***
+2025-09-09 16:14:52,062 [RTT] Delay set to 14.05msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:15,152 [RTT] Delay set to 14.57msms on h1-eth0 and r11-eth4
+2025-09-09 16:14:53,053 *** Updating delay to 13.72ms on h1-r13 link ***
 
-2025-08-27 16:22:16,144 *** Updating delay to 14.33ms on h1-r11 link ***
+2025-09-09 16:14:53,060 [RTT] Delay set to 13.72msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:16,154 [RTT] Delay set to 14.33msms on h1-eth0 and r11-eth4
+2025-09-09 16:14:54,055 *** Updating delay to 13.35ms on h1-r13 link ***
 
-2025-08-27 16:22:17,146 *** Updating delay to 14.05ms on h1-r11 link ***
+2025-09-09 16:14:54,064 [RTT] Delay set to 13.35msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:17,151 [RTT] Delay set to 14.05msms on h1-eth0 and r11-eth4
+2025-09-09 16:14:55,056 *** Updating delay to 12.94ms on h1-r13 link ***
 
-2025-08-27 16:22:18,148 *** Updating delay to 13.72ms on h1-r11 link ***
+2025-09-09 16:14:55,065 [RTT] Delay set to 12.94msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:18,157 [RTT] Delay set to 13.72msms on h1-eth0 and r11-eth4
+2025-09-09 16:14:56,058 *** Updating delay to 12.5ms on h1-r13 link ***
 
-2025-08-27 16:22:19,150 *** Updating delay to 13.35ms on h1-r11 link ***
+2025-09-09 16:14:56,061 [RTT] Delay set to 12.5msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:19,160 [RTT] Delay set to 13.35msms on h1-eth0 and r11-eth4
+2025-09-09 16:14:57,059 *** Updating delay to 12.03ms on h1-r13 link ***
 
-2025-08-27 16:22:20,152 *** Updating delay to 12.94ms on h1-r11 link ***
+2025-09-09 16:14:57,068 [RTT] Delay set to 12.03msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:20,158 [RTT] Delay set to 12.94msms on h1-eth0 and r11-eth4
+2025-09-09 16:14:58,061 *** Updating delay to 11.55ms on h1-r13 link ***
 
-2025-08-27 16:22:21,153 *** Updating delay to 12.5ms on h1-r11 link ***
+2025-09-09 16:14:58,070 [RTT] Delay set to 11.55msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:21,163 [RTT] Delay set to 12.5msms on h1-eth0 and r11-eth4
+2025-09-09 16:14:59,062 *** Updating delay to 11.04ms on h1-r13 link ***
 
-2025-08-27 16:22:22,155 *** Updating delay to 12.03ms on h1-r11 link ***
+2025-09-09 16:14:59,071 [RTT] Delay set to 11.04msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:22,161 [RTT] Delay set to 12.03msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:00,063 *** Updating delay to 10.52ms on h1-r13 link ***
 
-2025-08-27 16:22:23,156 *** Updating delay to 11.55ms on h1-r11 link ***
+2025-09-09 16:15:00,072 [RTT] Delay set to 10.52msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:23,164 [RTT] Delay set to 11.55msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:01,065 *** Updating delay to 10.0ms on h1-r13 link ***
 
-2025-08-27 16:22:24,158 *** Updating delay to 11.04ms on h1-r11 link ***
+2025-09-09 16:15:01,071 [RTT] Delay set to 10.0msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:24,162 [RTT] Delay set to 11.04msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:02,066 *** Updating delay to 9.48ms on h1-r13 link ***
 
-2025-08-27 16:22:25,159 *** Updating delay to 10.52ms on h1-r11 link ***
+2025-09-09 16:15:02,075 [RTT] Delay set to 9.48msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:25,168 [RTT] Delay set to 10.52msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:03,067 *** Updating delay to 8.96ms on h1-r13 link ***
 
-2025-08-27 16:22:26,160 *** Updating delay to 10.0ms on h1-r11 link ***
+2025-09-09 16:15:03,076 [RTT] Delay set to 8.96msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:26,164 [RTT] Delay set to 10.0msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:04,068 *** Updating delay to 8.45ms on h1-r13 link ***
 
-2025-08-27 16:22:27,162 *** Updating delay to 9.48ms on h1-r11 link ***
+2025-09-09 16:15:04,075 [RTT] Delay set to 8.45msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:27,170 [RTT] Delay set to 9.48msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:05,070 *** Updating delay to 7.97ms on h1-r13 link ***
 
-2025-08-27 16:22:28,163 *** Updating delay to 8.96ms on h1-r11 link ***
+2025-09-09 16:15:05,079 [RTT] Delay set to 7.97msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:28,167 [RTT] Delay set to 8.96msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:06,071 *** Updating delay to 7.5ms on h1-r13 link ***
 
-2025-08-27 16:22:29,164 *** Updating delay to 8.45ms on h1-r11 link ***
+2025-09-09 16:15:06,079 [RTT] Delay set to 7.5msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:29,173 [RTT] Delay set to 8.45msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:07,072 *** Updating delay to 7.06ms on h1-r13 link ***
 
-2025-08-27 16:22:30,166 *** Updating delay to 7.97ms on h1-r11 link ***
+2025-09-09 16:15:07,080 [RTT] Delay set to 7.06msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:30,172 [RTT] Delay set to 7.97msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:08,073 *** Updating delay to 6.65ms on h1-r13 link ***
 
-2025-08-27 16:22:31,167 *** Updating delay to 7.5ms on h1-r11 link ***
+2025-09-09 16:15:08,082 [RTT] Delay set to 6.65msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:31,175 [RTT] Delay set to 7.5msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:09,075 *** Updating delay to 6.28ms on h1-r13 link ***
 
-2025-08-27 16:22:32,168 *** Updating delay to 7.06ms on h1-r11 link ***
+2025-09-09 16:15:09,084 [RTT] Delay set to 6.28msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:32,177 [RTT] Delay set to 7.06msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:10,076 *** Updating delay to 5.95ms on h1-r13 link ***
 
-2025-08-27 16:22:33,170 *** Updating delay to 6.65ms on h1-r11 link ***
+2025-09-09 16:15:10,085 [RTT] Delay set to 5.95msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:33,177 [RTT] Delay set to 6.65msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:11,077 *** Updating delay to 5.67ms on h1-r13 link ***
 
-2025-08-27 16:22:34,171 *** Updating delay to 6.28ms on h1-r11 link ***
+2025-09-09 16:15:11,083 [RTT] Delay set to 5.67msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:34,176 [RTT] Delay set to 6.28msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:12,079 *** Updating delay to 5.43ms on h1-r13 link ***
 
-2025-08-27 16:22:35,173 *** Updating delay to 5.95ms on h1-r11 link ***
+2025-09-09 16:15:12,088 [RTT] Delay set to 5.43msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:35,183 [RTT] Delay set to 5.95msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:13,080 *** Updating delay to 5.24ms on h1-r13 link ***
 
-2025-08-27 16:22:36,175 *** Updating delay to 5.67ms on h1-r11 link ***
+2025-09-09 16:15:13,089 [RTT] Delay set to 5.24msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:36,180 [RTT] Delay set to 5.67msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:14,081 *** Updating delay to 5.11ms on h1-r13 link ***
 
-2025-08-27 16:22:37,177 *** Updating delay to 5.43ms on h1-r11 link ***
+2025-09-09 16:15:14,091 [RTT] Delay set to 5.11msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:37,183 [RTT] Delay set to 5.43msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:15,083 *** Updating delay to 5.03ms on h1-r13 link ***
 
-2025-08-27 16:22:38,178 *** Updating delay to 5.24ms on h1-r11 link ***
+2025-09-09 16:15:15,092 [RTT] Delay set to 5.03msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:38,187 [RTT] Delay set to 5.24msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:16,084 *** Updating delay to 5.0ms on h1-r13 link ***
 
-2025-08-27 16:22:39,180 *** Updating delay to 5.11ms on h1-r11 link ***
+2025-09-09 16:15:16,093 [RTT] Delay set to 5.0msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:39,183 [RTT] Delay set to 5.11msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:17,085 *** Updating delay to 5.03ms on h1-r13 link ***
 
-2025-08-27 16:22:40,182 *** Updating delay to 5.03ms on h1-r11 link ***
+2025-09-09 16:15:17,094 [RTT] Delay set to 5.03msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:40,191 [RTT] Delay set to 5.03msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:18,086 *** Updating delay to 5.11ms on h1-r13 link ***
 
-2025-08-27 16:22:41,183 *** Updating delay to 5.0ms on h1-r11 link ***
+2025-09-09 16:15:18,090 [RTT] Delay set to 5.11msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:41,190 [RTT] Delay set to 5.0msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:19,088 *** Updating delay to 5.24ms on h1-r13 link ***
 
-2025-08-27 16:22:42,185 *** Updating delay to 5.03ms on h1-r11 link ***
+2025-09-09 16:15:19,097 [RTT] Delay set to 5.24msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:42,189 [RTT] Delay set to 5.03msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:20,089 *** Updating delay to 5.43ms on h1-r13 link ***
 
-2025-08-27 16:22:43,186 *** Updating delay to 5.11ms on h1-r11 link ***
+2025-09-09 16:15:20,098 [RTT] Delay set to 5.43msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:43,196 [RTT] Delay set to 5.11msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:21,090 *** Updating delay to 5.67ms on h1-r13 link ***
 
-2025-08-27 16:22:44,188 *** Updating delay to 5.24ms on h1-r11 link ***
+2025-09-09 16:15:21,096 [RTT] Delay set to 5.67msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:44,196 [RTT] Delay set to 5.24msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:22,091 *** Updating delay to 5.95ms on h1-r13 link ***
 
-2025-08-27 16:22:45,189 *** Updating delay to 5.43ms on h1-r11 link ***
+2025-09-09 16:15:22,100 [RTT] Delay set to 5.95msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:45,194 [RTT] Delay set to 5.43msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:23,093 *** Updating delay to 6.28ms on h1-r13 link ***
 
-2025-08-27 16:22:46,190 *** Updating delay to 5.67ms on h1-r11 link ***
+2025-09-09 16:15:23,102 [RTT] Delay set to 6.28msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:46,200 [RTT] Delay set to 5.67msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:24,094 *** Updating delay to 6.65ms on h1-r13 link ***
 
-2025-08-27 16:22:47,192 *** Updating delay to 5.95ms on h1-r11 link ***
+2025-09-09 16:15:24,101 [RTT] Delay set to 6.65msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:47,197 [RTT] Delay set to 5.95msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:25,096 *** Updating delay to 7.06ms on h1-r13 link ***
 
-2025-08-27 16:22:48,193 *** Updating delay to 6.28ms on h1-r11 link ***
+2025-09-09 16:15:25,106 [RTT] Delay set to 7.06msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:48,202 [RTT] Delay set to 6.28msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:26,098 *** Updating delay to 7.5ms on h1-r13 link ***
 
-2025-08-27 16:22:49,195 *** Updating delay to 6.65ms on h1-r11 link ***
+2025-09-09 16:15:26,108 [RTT] Delay set to 7.5msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:49,199 [RTT] Delay set to 6.65msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:27,100 *** Updating delay to 7.97ms on h1-r13 link ***
 
-2025-08-27 16:22:50,196 *** Updating delay to 7.06ms on h1-r11 link ***
+2025-09-09 16:15:27,109 [RTT] Delay set to 7.97msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:50,201 [RTT] Delay set to 7.06msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:28,102 *** Updating delay to 8.45ms on h1-r13 link ***
 
-2025-08-27 16:22:51,198 *** Updating delay to 7.5ms on h1-r11 link ***
+2025-09-09 16:15:28,109 [RTT] Delay set to 8.45msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:51,208 [RTT] Delay set to 7.5msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:29,104 *** Updating delay to 8.96ms on h1-r13 link ***
 
-2025-08-27 16:22:52,200 *** Updating delay to 7.97ms on h1-r11 link ***
+2025-09-09 16:15:29,114 [RTT] Delay set to 8.96msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:52,203 [RTT] Delay set to 7.97msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:30,106 *** Updating delay to 9.48ms on h1-r13 link ***
 
-2025-08-27 16:22:53,201 *** Updating delay to 8.45ms on h1-r11 link ***
+2025-09-09 16:15:30,115 [RTT] Delay set to 9.48msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:53,210 [RTT] Delay set to 8.45msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:31,107 *** Updating delay to 10.0ms on h1-r13 link ***
 
-2025-08-27 16:22:54,202 *** Updating delay to 8.96ms on h1-r11 link ***
+2025-09-09 16:15:31,113 [RTT] Delay set to 10.0msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:54,208 [RTT] Delay set to 8.96msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:32,109 *** Updating delay to 10.52ms on h1-r13 link ***
 
-2025-08-27 16:22:55,204 *** Updating delay to 9.48ms on h1-r11 link ***
+2025-09-09 16:15:32,119 [RTT] Delay set to 10.52msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:55,213 [RTT] Delay set to 9.48msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:33,112 *** Updating delay to 11.04ms on h1-r13 link ***
 
-2025-08-27 16:22:56,206 *** Updating delay to 10.0ms on h1-r11 link ***
+2025-09-09 16:15:33,121 [RTT] Delay set to 11.04msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:56,212 [RTT] Delay set to 10.0msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:34,114 *** Updating delay to 11.55ms on h1-r13 link ***
 
-2025-08-27 16:22:57,207 *** Updating delay to 10.52ms on h1-r11 link ***
+2025-09-09 16:15:34,123 [RTT] Delay set to 11.55msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:57,212 [RTT] Delay set to 10.52msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:35,116 *** Updating delay to 12.03ms on h1-r13 link ***
 
-2025-08-27 16:22:58,208 *** Updating delay to 11.04ms on h1-r11 link ***
+2025-09-09 16:15:35,124 [RTT] Delay set to 12.03msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:58,217 [RTT] Delay set to 11.04msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:36,118 *** Updating delay to 12.5ms on h1-r13 link ***
 
-2025-08-27 16:22:59,210 *** Updating delay to 11.55ms on h1-r11 link ***
+2025-09-09 16:15:36,128 [RTT] Delay set to 12.5msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:22:59,216 [RTT] Delay set to 11.55msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:37,120 *** Updating delay to 12.94ms on h1-r13 link ***
 
-2025-08-27 16:23:00,211 *** Updating delay to 12.03ms on h1-r11 link ***
+2025-09-09 16:15:37,130 [RTT] Delay set to 12.94msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:23:00,219 [RTT] Delay set to 12.03msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:38,122 *** Updating delay to 13.35ms on h1-r13 link ***
 
-2025-08-27 16:23:01,212 *** Updating delay to 12.5ms on h1-r11 link ***
+2025-09-09 16:15:38,131 [RTT] Delay set to 13.35msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:23:01,218 [RTT] Delay set to 12.5msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:39,124 *** Updating delay to 13.72ms on h1-r13 link ***
 
-2025-08-27 16:23:02,213 *** Updating delay to 12.94ms on h1-r11 link ***
+2025-09-09 16:15:39,132 [RTT] Delay set to 13.72msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:23:02,222 [RTT] Delay set to 12.94msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:40,125 *** Updating delay to 14.05ms on h1-r13 link ***
 
-2025-08-27 16:23:03,215 *** Updating delay to 13.35ms on h1-r11 link ***
+2025-09-09 16:15:40,135 [RTT] Delay set to 14.05msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:23:03,219 [RTT] Delay set to 13.35msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:41,127 *** Updating delay to 14.33ms on h1-r13 link ***
 
-2025-08-27 16:23:04,217 *** Updating delay to 13.72ms on h1-r11 link ***
+2025-09-09 16:15:41,138 [RTT] Delay set to 14.33msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:23:04,227 [RTT] Delay set to 13.72msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:42,129 *** Updating delay to 14.57ms on h1-r13 link ***
 
-2025-08-27 16:23:05,218 *** Updating delay to 14.05ms on h1-r11 link ***
+2025-09-09 16:15:42,137 [RTT] Delay set to 14.57msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:23:05,226 [RTT] Delay set to 14.05msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:43,131 *** Updating delay to 14.76ms on h1-r13 link ***
 
-2025-08-27 16:23:06,219 *** Updating delay to 14.33ms on h1-r11 link ***
+2025-09-09 16:15:43,138 [RTT] Delay set to 14.76msms on h1-eth2 and r13-eth4
 
-2025-08-27 16:23:06,225 [RTT] Delay set to 14.33msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:43,832 *** Performing handover, index: 2 ***
 
-2025-08-27 16:23:07,221 *** Updating delay to 14.57ms on h1-r11 link ***
+2025-09-09 16:15:43,849 ** Disabled link between h1 and r13 **
 
-2025-08-27 16:23:07,230 [RTT] Delay set to 14.57msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:43,849 *** Adding link to r14 with IP 10.1.0.14 ***
 
-2025-08-27 16:23:08,222 *** Updating delay to 14.76ms on h1-r11 link ***
+2025-09-09 16:15:43,865 (8.00Mbit 3.6667ms delay 0.00000% loss) 
+2025-09-09 16:15:43,884 (8.00Mbit 3.6667ms delay 0.00000% loss) 
+2025-09-09 16:15:43,892 ****11111111111111111***
 
-2025-08-27 16:23:08,229 [RTT] Delay set to 14.76msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:43,895 切换后结果为：
 
-2025-08-27 16:23:09,224 *** Updating delay to 14.89ms on h1-r11 link ***
+2025-09-09 16:15:43,913 ** h1 connected to r14 with gateway 10.1.0.14 **
 
-2025-08-27 16:23:09,233 [RTT] Delay set to 14.89msms on h1-eth0 and r11-eth4
+2025-09-09 16:15:43,913 *** Applying HTB+NETEM on h1:h1-eth3 for bw=8Mbps delay=15.0ms ***
 
-2025-08-27 16:23:10,225 *** Updating delay to 14.97ms on h1-r11 link ***
-
-2025-08-27 16:23:10,235 [RTT] Delay set to 14.97msms on h1-eth0 and r11-eth4
-
-2025-08-27 16:23:10,236 *** Performing handover, index: 0 ***
-
-2025-08-27 16:23:10,268 ** Deleted link between h1 and r11 **
-
-2025-08-27 16:23:10,268 *** Adding link to r12 with IP 10.1.0.12 ***
-
-2025-08-27 16:23:10,280 (6.00Mbit 3.6667ms delay 0.00000% loss) 
-2025-08-27 16:23:10,300 (6.00Mbit 3.6667ms delay 0.00000% loss) 
-2025-08-27 16:23:10,306 ****11111111111111111***
-
-2025-08-27 16:23:10,309 切换后结果为：class htb 5:1 root leaf 10: prio 0 rate 6Mbit ceil 6Mbit burst 15Kb cburst 1599b 
-
-
-2025-08-27 16:23:10,320 ** h1 connected to r12 with gateway 10.1.0.12 **
-
-2025-08-27 16:23:10,320 *** Applying HTB+NETEM on h1:h1-eth0 for bw=6Mbps delay=15.0ms ***
-
-2025-08-27 16:23:10,342 --- h1 tc show ---
-qdisc htb 1: root refcnt 21 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 1000
-qdisc netem 10: parent 1:1 limit 1000 delay 15ms
- class htb 1:1 root leaf 10: prio 0 rate 6Mbit ceil 6Mbit burst 1599b cburst 1599b 
-
-2025-08-27 16:23:10,349 --- sat tc show ---
-qdisc htb 1: root refcnt 21 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 1000
-qdisc netem 10: parent 1:1 limit 1000 delay 15ms
- class htb 1:1 root leaf 10: prio 0 rate 6Mbit ceil 6Mbit burst 1599b cburst 1599b 
-
-2025-08-27 16:23:10,349 ** Pinging from h1 to h2 (10.2.0.200) after connecting to r12 **
-
-2025-08-27 16:23:12,469 Ping result:
-PING 10.2.0.200 (10.2.0.200) 56(84) bytes of data.
-64 bytes from 10.2.0.200: icmp_seq=1 ttl=60 time=103 ms
-64 bytes from 10.2.0.200: icmp_seq=2 ttl=60 time=76.6 ms
-64 bytes from 10.2.0.200: icmp_seq=3 ttl=60 time=117 ms
-
---- 10.2.0.200 ping statistics ---
-3 packets transmitted, 3 received, 0% packet loss, time 2000ms
-rtt min/avg/max/mdev = 76.552/98.802/116.825/16.711 ms
-
-
-2025-08-27 16:23:12,469 *** Updating delay to 15.0ms on h1-r12 link ***
-
-2025-08-27 16:23:12,479 [RTT] Delay set to 15.0msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:13,471 *** Updating delay to 14.97ms on h1-r12 link ***
-
-2025-08-27 16:23:13,479 [RTT] Delay set to 14.97msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:14,472 *** Updating delay to 14.89ms on h1-r12 link ***
-
-2025-08-27 16:23:14,480 [RTT] Delay set to 14.89msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:15,473 *** Updating delay to 14.76ms on h1-r12 link ***
-
-2025-08-27 16:23:15,477 [RTT] Delay set to 14.76msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:16,475 *** Updating delay to 14.57ms on h1-r12 link ***
-
-2025-08-27 16:23:16,483 [RTT] Delay set to 14.57msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:17,476 *** Updating delay to 14.33ms on h1-r12 link ***
-
-2025-08-27 16:23:17,484 [RTT] Delay set to 14.33msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:18,478 *** Updating delay to 14.05ms on h1-r12 link ***
-
-2025-08-27 16:23:18,482 [RTT] Delay set to 14.05msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:19,479 *** Updating delay to 13.72ms on h1-r12 link ***
-
-2025-08-27 16:23:19,482 [RTT] Delay set to 13.72msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:20,481 *** Updating delay to 13.35ms on h1-r12 link ***
-
-2025-08-27 16:23:20,488 [RTT] Delay set to 13.35msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:21,482 *** Updating delay to 12.94ms on h1-r12 link ***
-
-2025-08-27 16:23:21,489 [RTT] Delay set to 12.94msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:22,484 *** Updating delay to 12.5ms on h1-r12 link ***
-
-2025-08-27 16:23:22,488 [RTT] Delay set to 12.5msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:23,485 *** Updating delay to 12.03ms on h1-r12 link ***
-
-2025-08-27 16:23:23,491 [RTT] Delay set to 12.03msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:24,487 *** Updating delay to 11.55ms on h1-r12 link ***
-
-2025-08-27 16:23:24,490 [RTT] Delay set to 11.55msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:25,488 *** Updating delay to 11.04ms on h1-r12 link ***
-
-2025-08-27 16:23:25,494 [RTT] Delay set to 11.04msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:26,490 *** Updating delay to 10.52ms on h1-r12 link ***
-
-2025-08-27 16:23:26,499 [RTT] Delay set to 10.52msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:27,491 *** Updating delay to 10.0ms on h1-r12 link ***
-
-2025-08-27 16:23:27,497 [RTT] Delay set to 10.0msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:28,493 *** Updating delay to 9.48ms on h1-r12 link ***
-
-2025-08-27 16:23:28,503 [RTT] Delay set to 9.48msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:29,494 *** Updating delay to 8.96ms on h1-r12 link ***
-
-2025-08-27 16:23:29,498 [RTT] Delay set to 8.96msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:30,495 *** Updating delay to 8.45ms on h1-r12 link ***
-
-2025-08-27 16:23:30,505 [RTT] Delay set to 8.45msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:31,497 *** Updating delay to 7.97ms on h1-r12 link ***
-
-2025-08-27 16:23:31,502 [RTT] Delay set to 7.97msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:32,498 *** Updating delay to 7.5ms on h1-r12 link ***
-
-2025-08-27 16:23:32,507 [RTT] Delay set to 7.5msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:33,499 *** Updating delay to 7.06ms on h1-r12 link ***
-
-2025-08-27 16:23:33,505 [RTT] Delay set to 7.06msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:34,501 *** Updating delay to 6.65ms on h1-r12 link ***
-
-2025-08-27 16:23:34,509 [RTT] Delay set to 6.65msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:35,502 *** Updating delay to 6.28ms on h1-r12 link ***
-
-2025-08-27 16:23:35,512 [RTT] Delay set to 6.28msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:36,504 *** Updating delay to 5.95ms on h1-r12 link ***
-
-2025-08-27 16:23:36,510 [RTT] Delay set to 5.95msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:37,505 *** Updating delay to 5.67ms on h1-r12 link ***
-
-2025-08-27 16:23:37,514 [RTT] Delay set to 5.67msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:38,506 *** Updating delay to 5.43ms on h1-r12 link ***
-
-2025-08-27 16:23:38,511 [RTT] Delay set to 5.43msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:39,508 *** Updating delay to 5.24ms on h1-r12 link ***
-
-2025-08-27 16:23:39,518 [RTT] Delay set to 5.24msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:40,509 *** Updating delay to 5.11ms on h1-r12 link ***
-
-2025-08-27 16:23:40,516 [RTT] Delay set to 5.11msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:41,510 *** Updating delay to 5.03ms on h1-r12 link ***
-
-2025-08-27 16:23:41,516 [RTT] Delay set to 5.03msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:42,512 *** Updating delay to 5.0ms on h1-r12 link ***
-
-2025-08-27 16:23:42,521 [RTT] Delay set to 5.0msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:43,513 *** Updating delay to 5.03ms on h1-r12 link ***
-
-2025-08-27 16:23:43,523 [RTT] Delay set to 5.03msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:44,515 *** Updating delay to 5.11ms on h1-r12 link ***
-
-2025-08-27 16:23:44,519 [RTT] Delay set to 5.11msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:45,516 *** Updating delay to 5.24ms on h1-r12 link ***
-
-2025-08-27 16:23:45,526 [RTT] Delay set to 5.24msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:46,517 *** Updating delay to 5.43ms on h1-r12 link ***
-
-2025-08-27 16:23:46,522 [RTT] Delay set to 5.43msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:47,519 *** Updating delay to 5.67ms on h1-r12 link ***
-
-2025-08-27 16:23:47,529 [RTT] Delay set to 5.67msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:48,520 *** Updating delay to 5.95ms on h1-r12 link ***
-
-2025-08-27 16:23:48,524 [RTT] Delay set to 5.95msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:49,521 *** Updating delay to 6.28ms on h1-r12 link ***
-
-2025-08-27 16:23:49,530 [RTT] Delay set to 6.28msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:50,523 *** Updating delay to 6.65ms on h1-r12 link ***
-
-2025-08-27 16:23:50,528 [RTT] Delay set to 6.65msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:51,525 *** Updating delay to 7.06ms on h1-r12 link ***
-
-2025-08-27 16:23:51,532 [RTT] Delay set to 7.06msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:52,527 *** Updating delay to 7.5ms on h1-r12 link ***
-
-2025-08-27 16:23:52,535 [RTT] Delay set to 7.5msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:53,528 *** Updating delay to 7.97ms on h1-r12 link ***
-
-2025-08-27 16:23:53,536 [RTT] Delay set to 7.97msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:54,530 *** Updating delay to 8.45ms on h1-r12 link ***
-
-2025-08-27 16:23:54,542 [RTT] Delay set to 8.45msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:55,531 *** Updating delay to 8.96ms on h1-r12 link ***
-
-2025-08-27 16:23:55,535 [RTT] Delay set to 8.96msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:56,532 *** Updating delay to 9.48ms on h1-r12 link ***
-
-2025-08-27 16:23:56,536 [RTT] Delay set to 9.48msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:57,534 *** Updating delay to 10.0ms on h1-r12 link ***
-
-2025-08-27 16:23:57,536 [RTT] Delay set to 10.0msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:58,535 *** Updating delay to 10.52ms on h1-r12 link ***
-
-2025-08-27 16:23:58,539 [RTT] Delay set to 10.52msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:23:59,536 *** Updating delay to 11.04ms on h1-r12 link ***
-
-2025-08-27 16:23:59,547 [RTT] Delay set to 11.04msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:24:00,538 *** Updating delay to 11.55ms on h1-r12 link ***
-
-2025-08-27 16:24:00,543 [RTT] Delay set to 11.55msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:24:01,539 *** Updating delay to 12.03ms on h1-r12 link ***
-
-2025-08-27 16:24:01,545 [RTT] Delay set to 12.03msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:24:02,541 *** Updating delay to 12.5ms on h1-r12 link ***
-
-2025-08-27 16:24:02,551 [RTT] Delay set to 12.5msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:24:03,543 *** Updating delay to 12.94ms on h1-r12 link ***
-
-2025-08-27 16:24:03,550 [RTT] Delay set to 12.94msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:24:04,544 *** Updating delay to 13.35ms on h1-r12 link ***
-
-2025-08-27 16:24:04,552 [RTT] Delay set to 13.35msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:24:05,545 *** Updating delay to 13.72ms on h1-r12 link ***
-
-2025-08-27 16:24:05,550 [RTT] Delay set to 13.72msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:24:06,547 *** Updating delay to 14.05ms on h1-r12 link ***
-
-2025-08-27 16:24:06,556 [RTT] Delay set to 14.05msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:24:07,548 *** Updating delay to 14.33ms on h1-r12 link ***
-
-2025-08-27 16:24:07,552 [RTT] Delay set to 14.33msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:24:08,549 *** Updating delay to 14.57ms on h1-r12 link ***
-
-2025-08-27 16:24:08,553 [RTT] Delay set to 14.57msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:24:09,551 *** Updating delay to 14.76ms on h1-r12 link ***
-
-2025-08-27 16:24:09,559 [RTT] Delay set to 14.76msms on h1-eth0 and r12-eth4
-
-2025-08-27 16:24:10,251 *** Performing handover, index: 1 ***
-
-2025-08-27 16:24:10,281 ** Deleted link between h1 and r12 **
-
-2025-08-27 16:24:10,281 *** Adding link to r13 with IP 10.1.0.13 ***
-
-2025-08-27 16:24:10,288 (7.00Mbit 3.6667ms delay 0.00000% loss) 
-2025-08-27 16:24:10,295 (7.00Mbit 3.6667ms delay 0.00000% loss) 
-2025-08-27 16:24:10,299 ****11111111111111111***
-
-2025-08-27 16:24:10,301 切换后结果为：class htb 5:1 root leaf 10: prio 0 rate 7Mbit ceil 7Mbit burst 15Kb cburst 1598b 
-
-
-2025-08-27 16:24:10,307 ** h1 connected to r13 with gateway 10.1.0.13 **
-
-2025-08-27 16:24:10,307 *** Applying HTB+NETEM on h1:h1-eth0 for bw=7Mbps delay=15.0ms ***
-
-2025-08-27 16:24:10,321 --- h1 tc show ---
-qdisc htb 1: root refcnt 21 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 1000
-qdisc netem 10: parent 1:1 limit 1000 delay 15ms
- class htb 1:1 root leaf 10: prio 0 rate 7Mbit ceil 7Mbit burst 1598b cburst 1598b 
-
-2025-08-27 16:24:10,325 --- sat tc show ---
-qdisc htb 1: root refcnt 21 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 1000
-qdisc netem 10: parent 1:1 limit 1000 delay 15ms
- class htb 1:1 root leaf 10: prio 0 rate 7Mbit ceil 7Mbit burst 1598b cburst 1598b 
-
-2025-08-27 16:24:10,325 ** Pinging from h1 to h2 (10.2.0.200) after connecting to r13 **
-
-2025-08-27 16:24:12,389 Ping result:
-PING 10.2.0.200 (10.2.0.200) 56(84) bytes of data.
-64 bytes from 10.2.0.200: icmp_seq=1 ttl=61 time=91.2 ms
-64 bytes from 10.2.0.200: icmp_seq=2 ttl=61 time=61.1 ms
-64 bytes from 10.2.0.200: icmp_seq=3 ttl=61 time=61.6 ms
-
---- 10.2.0.200 ping statistics ---
-3 packets transmitted, 3 received, 0% packet loss, time 2000ms
-rtt min/avg/max/mdev = 61.101/71.293/91.212/14.085 ms
-
-
-2025-08-27 16:24:12,389 *** Updating delay to 15.0ms on h1-r13 link ***
-
-2025-08-27 16:24:12,398 [RTT] Delay set to 15.0msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:13,390 *** Updating delay to 14.97ms on h1-r13 link ***
-
-2025-08-27 16:24:13,393 [RTT] Delay set to 14.97msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:14,392 *** Updating delay to 14.89ms on h1-r13 link ***
-
-2025-08-27 16:24:14,395 [RTT] Delay set to 14.89msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:15,393 *** Updating delay to 14.76ms on h1-r13 link ***
-
-2025-08-27 16:24:15,402 [RTT] Delay set to 14.76msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:16,395 *** Updating delay to 14.57ms on h1-r13 link ***
-
-2025-08-27 16:24:16,398 [RTT] Delay set to 14.57msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:17,396 *** Updating delay to 14.33ms on h1-r13 link ***
-
-2025-08-27 16:24:17,406 [RTT] Delay set to 14.33msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:18,398 *** Updating delay to 14.05ms on h1-r13 link ***
-
-2025-08-27 16:24:18,402 [RTT] Delay set to 14.05msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:19,399 *** Updating delay to 13.72ms on h1-r13 link ***
-
-2025-08-27 16:24:19,406 [RTT] Delay set to 13.72msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:20,401 *** Updating delay to 13.35ms on h1-r13 link ***
-
-2025-08-27 16:24:20,408 [RTT] Delay set to 13.35msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:21,402 *** Updating delay to 12.94ms on h1-r13 link ***
-
-2025-08-27 16:24:21,412 [RTT] Delay set to 12.94msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:22,403 *** Updating delay to 12.5ms on h1-r13 link ***
-
-2025-08-27 16:24:22,407 [RTT] Delay set to 12.5msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:23,405 *** Updating delay to 12.03ms on h1-r13 link ***
-
-2025-08-27 16:24:23,413 [RTT] Delay set to 12.03msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:24,406 *** Updating delay to 11.55ms on h1-r13 link ***
-
-2025-08-27 16:24:24,411 [RTT] Delay set to 11.55msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:25,407 *** Updating delay to 11.04ms on h1-r13 link ***
-
-2025-08-27 16:24:25,414 [RTT] Delay set to 11.04msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:26,409 *** Updating delay to 10.52ms on h1-r13 link ***
-
-2025-08-27 16:24:26,418 [RTT] Delay set to 10.52msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:27,410 *** Updating delay to 10.0ms on h1-r13 link ***
-
-2025-08-27 16:24:27,414 [RTT] Delay set to 10.0msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:28,411 *** Updating delay to 9.48ms on h1-r13 link ***
-
-2025-08-27 16:24:28,421 [RTT] Delay set to 9.48msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:29,413 *** Updating delay to 8.96ms on h1-r13 link ***
-
-2025-08-27 16:24:29,417 [RTT] Delay set to 8.96msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:30,414 *** Updating delay to 8.45ms on h1-r13 link ***
-
-2025-08-27 16:24:30,424 [RTT] Delay set to 8.45msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:31,416 *** Updating delay to 7.97ms on h1-r13 link ***
-
-2025-08-27 16:24:31,423 [RTT] Delay set to 7.97msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:32,417 *** Updating delay to 7.5ms on h1-r13 link ***
-
-2025-08-27 16:24:32,425 [RTT] Delay set to 7.5msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:33,419 *** Updating delay to 7.06ms on h1-r13 link ***
-
-2025-08-27 16:24:33,428 [RTT] Delay set to 7.06msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:34,420 *** Updating delay to 6.65ms on h1-r13 link ***
-
-2025-08-27 16:24:34,424 [RTT] Delay set to 6.65msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:35,421 *** Updating delay to 6.28ms on h1-r13 link ***
-
-2025-08-27 16:24:35,426 [RTT] Delay set to 6.28msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:36,423 *** Updating delay to 5.95ms on h1-r13 link ***
-
-2025-08-27 16:24:36,427 [RTT] Delay set to 5.95msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:37,424 *** Updating delay to 5.67ms on h1-r13 link ***
-
-2025-08-27 16:24:37,433 [RTT] Delay set to 5.67msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:38,425 *** Updating delay to 5.43ms on h1-r13 link ***
-
-2025-08-27 16:24:38,432 [RTT] Delay set to 5.43msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:39,427 *** Updating delay to 5.24ms on h1-r13 link ***
-
-2025-08-27 16:24:39,437 [RTT] Delay set to 5.24msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:40,428 *** Updating delay to 5.11ms on h1-r13 link ***
-
-2025-08-27 16:24:40,433 [RTT] Delay set to 5.11msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:41,429 *** Updating delay to 5.03ms on h1-r13 link ***
-
-2025-08-27 16:24:41,437 [RTT] Delay set to 5.03msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:42,431 *** Updating delay to 5.0ms on h1-r13 link ***
-
-2025-08-27 16:24:42,434 [RTT] Delay set to 5.0msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:43,432 *** Updating delay to 5.03ms on h1-r13 link ***
-
-2025-08-27 16:24:43,441 [RTT] Delay set to 5.03msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:44,433 *** Updating delay to 5.11ms on h1-r13 link ***
-
-2025-08-27 16:24:44,443 [RTT] Delay set to 5.11msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:45,434 *** Updating delay to 5.24ms on h1-r13 link ***
-
-2025-08-27 16:24:45,444 [RTT] Delay set to 5.24msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:46,436 *** Updating delay to 5.43ms on h1-r13 link ***
-
-2025-08-27 16:24:46,440 [RTT] Delay set to 5.43msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:47,437 *** Updating delay to 5.67ms on h1-r13 link ***
-
-2025-08-27 16:24:47,445 [RTT] Delay set to 5.67msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:48,438 *** Updating delay to 5.95ms on h1-r13 link ***
-
-2025-08-27 16:24:48,447 [RTT] Delay set to 5.95msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:49,440 *** Updating delay to 6.28ms on h1-r13 link ***
-
-2025-08-27 16:24:49,450 [RTT] Delay set to 6.28msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:50,442 *** Updating delay to 6.65ms on h1-r13 link ***
-
-2025-08-27 16:24:50,451 [RTT] Delay set to 6.65msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:51,443 *** Updating delay to 7.06ms on h1-r13 link ***
-
-2025-08-27 16:24:51,450 [RTT] Delay set to 7.06msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:52,444 *** Updating delay to 7.5ms on h1-r13 link ***
-
-2025-08-27 16:24:52,452 [RTT] Delay set to 7.5msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:53,446 *** Updating delay to 7.97ms on h1-r13 link ***
-
-2025-08-27 16:24:53,451 [RTT] Delay set to 7.97msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:54,447 *** Updating delay to 8.45ms on h1-r13 link ***
-
-2025-08-27 16:24:54,455 [RTT] Delay set to 8.45msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:55,449 *** Updating delay to 8.96ms on h1-r13 link ***
-
-2025-08-27 16:24:55,458 [RTT] Delay set to 8.96msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:56,451 *** Updating delay to 9.48ms on h1-r13 link ***
-
-2025-08-27 16:24:56,461 [RTT] Delay set to 9.48msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:57,452 *** Updating delay to 10.0ms on h1-r13 link ***
-
-2025-08-27 16:24:57,458 [RTT] Delay set to 10.0msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:58,454 *** Updating delay to 10.52ms on h1-r13 link ***
-
-2025-08-27 16:24:58,463 [RTT] Delay set to 10.52msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:24:59,455 *** Updating delay to 11.04ms on h1-r13 link ***
-
-2025-08-27 16:24:59,460 [RTT] Delay set to 11.04msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:25:00,457 *** Updating delay to 11.55ms on h1-r13 link ***
-
-2025-08-27 16:25:00,467 [RTT] Delay set to 11.55msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:25:01,458 *** Updating delay to 12.03ms on h1-r13 link ***
-
-2025-08-27 16:25:01,465 [RTT] Delay set to 12.03msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:25:02,460 *** Updating delay to 12.5ms on h1-r13 link ***
-
-2025-08-27 16:25:02,468 [RTT] Delay set to 12.5msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:25:03,462 *** Updating delay to 12.94ms on h1-r13 link ***
-
-2025-08-27 16:25:03,469 [RTT] Delay set to 12.94msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:25:04,463 *** Updating delay to 13.35ms on h1-r13 link ***
-
-2025-08-27 16:25:04,471 [RTT] Delay set to 13.35msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:25:05,465 *** Updating delay to 13.72ms on h1-r13 link ***
-
-2025-08-27 16:25:05,474 [RTT] Delay set to 13.72msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:25:06,466 *** Updating delay to 14.05ms on h1-r13 link ***
-
-2025-08-27 16:25:06,474 [RTT] Delay set to 14.05msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:25:07,468 *** Updating delay to 14.33ms on h1-r13 link ***
-
-2025-08-27 16:25:07,478 [RTT] Delay set to 14.33msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:25:08,469 *** Updating delay to 14.57ms on h1-r13 link ***
-
-2025-08-27 16:25:08,475 [RTT] Delay set to 14.57msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:25:09,471 *** Updating delay to 14.76ms on h1-r13 link ***
-
-2025-08-27 16:25:09,481 [RTT] Delay set to 14.76msms on h1-eth0 and r13-eth4
-
-2025-08-27 16:25:10,272 *** Performing handover, index: 2 ***
-
-2025-08-27 16:25:10,305 ** Deleted link between h1 and r13 **
-
-2025-08-27 16:25:10,306 *** Adding link to r14 with IP 10.1.0.14 ***
-
-2025-08-27 16:25:10,317 (8.00Mbit 3.6667ms delay 0.00000% loss) 
-2025-08-27 16:25:10,331 (8.00Mbit 3.6667ms delay 0.00000% loss) 
-2025-08-27 16:25:10,338 ****11111111111111111***
-
-2025-08-27 16:25:10,340 切换后结果为：class htb 5:1 root leaf 10: prio 0 rate 8Mbit ceil 8Mbit burst 15Kb cburst 1600b 
-
-
-2025-08-27 16:25:10,345 ** h1 connected to r14 with gateway 10.1.0.14 **
-
-2025-08-27 16:25:10,346 *** Applying HTB+NETEM on h1:h1-eth0 for bw=8Mbps delay=15.0ms ***
-
-2025-08-27 16:25:10,379 --- h1 tc show ---
+2025-09-09 16:15:43,952 --- h1 tc show ---
 qdisc htb 1: root refcnt 21 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 1000
 qdisc netem 10: parent 1:1 limit 1000 delay 15ms
  class htb 1:1 root leaf 10: prio 0 rate 8Mbit ceil 8Mbit burst 1600b cburst 1600b 
 
-2025-08-27 16:25:10,382 --- sat tc show ---
+2025-09-09 16:15:43,960 --- sat tc show ---
 qdisc htb 1: root refcnt 21 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 1000
 qdisc netem 10: parent 1:1 limit 1000 delay 15ms
  class htb 1:1 root leaf 10: prio 0 rate 8Mbit ceil 8Mbit burst 1600b cburst 1600b 
 
-2025-08-27 16:25:10,382 ** Pinging from h1 to h2 (10.2.0.200) after connecting to r14 **
+2025-09-09 16:15:43,960 ** Pinging from h1 to h2 (10.2.0.200) after connecting to r14 **
 
-2025-08-27 16:25:13,388 Ping result:
+2025-09-09 16:15:46,016 Ping result:
 PING 10.2.0.200 (10.2.0.200) 56(84) bytes of data.
-64 bytes from 10.2.0.200: icmp_seq=1 ttl=62 time=80.0 ms
-64 bytes from 10.2.0.200: icmp_seq=2 ttl=62 time=49.8 ms
+64 bytes from 10.2.0.200: icmp_seq=1 ttl=62 time=79.3 ms
+64 bytes from 10.2.0.200: icmp_seq=2 ttl=62 time=49.6 ms
+64 bytes from 10.2.0.200: icmp_seq=3 ttl=62 time=49.4 ms
 
 --- 10.2.0.200 ping statistics ---
-3 packets transmitted, 2 received, 33.3333% packet loss, time 2003ms
-rtt min/avg/max/mdev = 49.824/64.919/80.015/15.095 ms
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 49.356/59.416/79.327/14.078 ms
 
 
-2025-08-27 16:25:13,388 *** Handover complete, total elapsed time: 183.25s ***
+2025-09-09 16:15:46,017 *** Handover complete, total elapsed time: 182.30s ***
 
-2025-08-27 16:26:22,908 
-****Performance evaluation complete****
-
-2025-08-27 16:26:22,909 *** Starting CLI:
-
-2025-08-27 16:28:23,791 *** Stopping 0 controllers
-
-2025-08-27 16:28:23,791 
-
-2025-08-27 16:28:23,791 *** Stopping 26 links
-
-2025-08-27 16:28:23,791 .
-2025-08-27 16:28:23,825 .
-2025-08-27 16:28:23,861 .
-2025-08-27 16:28:23,889 .
-2025-08-27 16:28:23,920 .
-2025-08-27 16:28:23,957 .
-2025-08-27 16:28:23,992 .
-2025-08-27 16:28:24,027 .
-2025-08-27 16:28:24,059 .
-2025-08-27 16:28:24,090 .
-2025-08-27 16:28:24,122 .
-2025-08-27 16:28:24,149 .
-2025-08-27 16:28:24,182 .
-2025-08-27 16:28:24,209 .
-2025-08-27 16:28:24,235 .
-2025-08-27 16:28:24,260 .
-2025-08-27 16:28:24,284 .
-2025-08-27 16:28:24,305 .
-2025-08-27 16:28:24,332 .
-2025-08-27 16:28:24,364 .
-2025-08-27 16:28:24,391 .
-2025-08-27 16:28:24,425 .
-2025-08-27 16:28:24,462 .
-2025-08-27 16:28:24,493 .
-2025-08-27 16:28:24,522 .
-2025-08-27 16:28:24,553 .
-2025-08-27 16:28:24,592 
-
-2025-08-27 16:28:24,593 *** Stopping 0 switches
-
-2025-08-27 16:28:24,593 
-
-2025-08-27 16:28:24,593 *** Stopping 14 hosts
-
-2025-08-27 16:28:24,593 r11 
-2025-08-27 16:28:24,594 r12 
-2025-08-27 16:28:24,596 r13 
-2025-08-27 16:28:24,597 r14 
-2025-08-27 16:28:24,598 r21 
-2025-08-27 16:28:24,600 r22 
-2025-08-27 16:28:24,602 r23 
-2025-08-27 16:28:24,603 r24 
-2025-08-27 16:28:24,605 r31 
-2025-08-27 16:28:24,607 r32 
-2025-08-27 16:28:24,609 r33 
-2025-08-27 16:28:24,613 r34 
-2025-08-27 16:28:24,617 h1 
-2025-08-27 16:28:24,618 h2 
-2025-08-27 16:28:24,619 
-*** Done
+2025-09-09 16:15:46,017 *** Starting CLI:
 

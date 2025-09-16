@@ -63,8 +63,8 @@ def satelliteToSatelliteTopoGenerating():
             else:
                 new_j = str(j + 1)
                 new_j_next = str(j + 2)
-            net.addLink("r"+ new_i + new_j, "r" + new_i + new_j_next, cls=TCLink, bw=10, delay='5.9ms',max_queue_size=10,loss=0)
-            # net.addLink("r"+ new_i + new_j, "r" + new_i + new_j_next, cls=TCLink, bw=10, delay='5.9ms',loss=0)
+            # net.addLink("r"+ new_i + new_j, "r" + new_i + new_j_next, cls=TCLink, bw=10, delay='5.9ms',max_queue_size=10,loss=0)
+            net.addLink("r"+ new_i + new_j, "r" + new_i + new_j_next, cls=TCLink, bw=10, delay='5.9ms',loss=0)
     # 不同轨道间的链路
     info('***Add orbit-to-orbit ISLs\n')
     for i in range(OrbitNumber):
@@ -75,8 +75,8 @@ def satelliteToSatelliteTopoGenerating():
             new_i_next = str(i + 2)
         for j in range(satellitePerOrbit):
             new_j = str(j + 1)
-            net.addLink("r" + new_i + new_j, "r" + new_i_next + new_j, cls=TCLink, bw=10, delay='5.9ms', max_queue_size=10,loss=0)
-            # net.addLink("r" + new_i + new_j, "r" + new_i_next + new_j, cls=TCLink, bw=10, delay='5.9ms',loss=0)
+            # net.addLink("r" + new_i + new_j, "r" + new_i_next + new_j, cls=TCLink, bw=10, delay='5.9ms', max_queue_size=10,loss=0)
+            net.addLink("r" + new_i + new_j, "r" + new_i_next + new_j, cls=TCLink, bw=10, delay='5.9ms',loss=0)
     info('*** Starting network\n')
     net.build()
     info('*** Starting controllers\n')
@@ -148,7 +148,7 @@ def handover_and_rtt_thread_1(net, h1, h2, interval=1):
             # 更新 h1-卫星链路的动态延迟
             if now - last_rtt_update_time >= interval:
                 current_delay = delays[delay_index % len(delays)]
-                info(f"*** Updating delay to {current_delay} on h1-{current_satellite.name} link ***\n")
+                info(f"*** Updating delay to {current_delay} on h1-{current_satellite.name} link ***\n")                
                 try:
                     if current_satellite:
                         link = net.linksBetween(h1, current_satellite)
@@ -156,8 +156,8 @@ def handover_and_rtt_thread_1(net, h1, h2, interval=1):
                             h1_intf = link[0].intf1.name
                             sat_intf = link[0].intf2.name
                             # 更新 h1 和卫星接口的延迟
-                            h1.cmd(f"tc qdisc replace dev {h1_intf} root netem delay {current_delay}ms")
-                            current_satellite.cmd(f"tc qdisc replace dev {sat_intf} root netem delay {current_delay}ms")
+                            h1.cmd(f"tc qdisc change dev {h1_intf}  parent 1:1 handle 10: netem delay {current_delay}ms")
+                            current_satellite.cmd(f"tc qdisc change dev {sat_intf} parent 1:1 handle 10: netem delay {current_delay}ms")
                             info(f"[RTT] Delay set to {current_delay}ms on {h1_intf} and {sat_intf}\n")
                 except Exception as e:
                     info(f"*** Error in delay update loop: {e} ***\n")
@@ -167,7 +167,6 @@ def handover_and_rtt_thread_1(net, h1, h2, interval=1):
             # 切换
             if now - last_handover_time >= handover_time:
                 info(f"*** Performing handover, index: {handover_index} ***\n")
-
                 try:
                     if current_satellite:
                         link = net.linksBetween(h1, current_satellite)
@@ -175,11 +174,11 @@ def handover_and_rtt_thread_1(net, h1, h2, interval=1):
                             h1_intf = link[0].intf1.name
                             sat_intf = link[0].intf2.name
                             # 清除旧接口的动态延迟，恢复固定延迟
-                            h1.cmd(f"tc qdisc del dev {h1_intf} root")
-                            current_satellite.cmd(f"tc qdisc del dev {sat_intf} root")
-                            current_satellite.cmd(f"ifconfig {sat_intf} 0.0.0.0")
-                        net.delLinkBetween(h1, current_satellite)
-                        info(f"** Deleted link between h1 and {current_satellite.name} **\n")
+                            h1.cmd(f"ifconfig {h1_intf} down")
+                            current_satellite.cmd(f"ifconfig {sat_intf} down")
+                            h1.cmd(f"tc qdisc del dev {h1_intf} root 2>/dev/null")
+                            current_satellite.cmd(f"tc qdisc del dev {sat_intf} root 2>/dev/null")
+                            info(f"** Disabled link between h1 and {current_satellite.name} **\n")
                 except Exception as e:
                     info(f"*** Error deleting link to {current_satellite.name}: {e} ***\n")
                     raise
@@ -191,16 +190,19 @@ def handover_and_rtt_thread_1(net, h1, h2, interval=1):
                     current_satellite = net.getNodeByName(sat_name)
                     sat_ip = f"10.1.0.{int(sat_name[1:])}"
                     info(f"*** Adding link to {sat_name} with IP {sat_ip} ***\n")
-                    net.addLink('h1', current_satellite, cls=TCLink, bw= current_bandwidth, delay='3.6667ms', max_queue_size=10,loss=0)
-                    # net.addLink('h1', current_satellite, cls=TCLink, bw= current_bandwidth, delay='3.6667ms',loss=0)
+                    # net.addLink('h1', current_satellite, cls=TCLink, bw= current_bandwidth, delay='3.6667ms', max_queue_size=10,loss=0)
+                    net.addLink('h1', current_satellite, cls=TCLink, bw= current_bandwidth, delay='3.6667ms',loss=0)
                     info(f"****11111111111111111***\n")
                     result = h1.cmd('tc class show dev h1-eth0')
                     info(f"切换后结果为：{result}\n")
                     link = net.linksBetween(h1, current_satellite)[0]
+
                     h1_intf = link.intf1.name
                     sat_intf = link.intf2.name
-                    h1.cmd(f'ifconfig {h1_intf} 10.1.0.200 netmask 255.255.255.0')
-                    current_satellite.cmd(f'ifconfig {sat_intf} {sat_ip} netmask 255.255.255.0')
+                    h1.cmd(f"ifconfig {h1_intf} up")
+                    current_satellite.cmd(f"ifconfig {sat_intf} up")
+                    h1.cmd(f"ifconfig {h1_intf} 10.1.0.200 netmask 255.255.255.0")
+                    current_satellite.cmd(f"ifconfig {sat_intf} {sat_ip} netmask 255.255.255.0")
                     h1.cmd(f'ip route del default 2>/dev/null')
                     h1.cmd(f'ip route add default via {sat_ip} dev {h1_intf}')
                     info(f"** h1 connected to {sat_name} with gateway {sat_ip} **\n")
@@ -238,26 +240,22 @@ def handover_and_rtt_thread_1(net, h1, h2, interval=1):
         info(f"*** Fatal error in handover_and_rtt_thread_1: {e} ***\n")
         raise
    
-# def performanceEvaluation(h1, h2):
-#     info('\n****xquic begin****\n')
-#     # info('*** Starting tcpdump on h1-eth0 ***\n')
-#     # h1.cmd('tcpdump -i h1-eth0 -nn -U -w /home/mxjpxk/xquic/xquic_info/h1_eth0.pcap &')
-#     time.sleep(2)
-#     h1.cmd("cd /home/mxjpxk/xquic/xquic/build/tests && ./test_server -a 10.1.0.200 -l e -c b > /home/mxjpxk/xquic/xquic_info/test_server.log & ")
-#     time.sleep(5)
-#     h2.cmd('cd /home/mxjpxk/xquic/xquic/build/tests && ./test_client -a 10.1.0.200 -l e -c b -s 104800400 -t 10 > /home/mxjpxk/xquic/xquic_info/test_client.log')
-#     # info('*** Stopping tcpdump ***\n')
-#     # h1.cmd('killall -9 tcpdump')
-
-def performanceEvaluation(h1,h2):
-    info('\n****Performance evaluation with BBR and iperf begin****\n')
-    info('*** Starting iperf server on h1 ***\n')
-    h1.cmd('iperf -s -i 0.5 > /home/mxjpxk/xquic/xquic_info/iperf_server_cubic.log &')
+def performanceEvaluation(h1, h2):
+    info('\n****xquic begin****\n')
     time.sleep(2)
-    info('*** Starting iperf client on h2, sending data to h1 (10.1.0.200) for 240s ***\n')
-    h2.cmd('iperf -c 10.1.0.200 -t 240 -i 0.5 > /home/mxjpxk/xquic/xquic_info/iperf_client_cubic.log')
-    # h2.cmd("bash -c 'for i in {1..480}; do ss -ti dst 10.1.0.200 >> /home/mxjpxk/xquic/xquic_info/cwnd_client_cubic.log; sleep 0.5; done'")
-    info('\n****Performance evaluation complete****\n')
+    h1.cmd("cd /home/mxjpxk/xquic/xquic/build/tests && ./test_server -a 10.1.0.200 -l e -c b > /home/mxjpxk/xquic/xquic_info/test_server.log & ")
+    time.sleep(5)
+    h2.cmd('cd /home/mxjpxk/xquic/xquic/build/tests && ./test_client -a 10.1.0.200 -l e -c b -s 104800400 -t 10 -1 > /home/mxjpxk/xquic/xquic_info/test_client.log')
+
+# def performanceEvaluation(h1,h2):
+#     info('\n****Performance evaluation with BBR and iperf begin****\n')
+#     info('*** Starting iperf server on h1 ***\n')
+#     h1.cmd('iperf -s -i 0.5 > /home/mxjpxk/xquic/xquic_info/iperf_server_reno.log &')
+#     time.sleep(2)
+#     info('*** Starting iperf client on h2, sending data to h1 (10.1.0.200) for 240s ***\n')
+#     h2.cmd('iperf -c 10.1.0.200 -t 240 -i 0.5 > /home/mxjpxk/xquic/xquic_info/iperf_client_reno.log')
+#     # h2.cmd("bash -c 'for i in {1..480}; do ss -ti dst 10.1.0.200 >> /home/mxjpxk/xquic/xquic_info/cwnd_client_cubic.log; sleep 0.5; done'")
+#     info('\n****Performance evaluation complete****\n')
 
 
 if __name__ == "__main__":
@@ -283,8 +281,8 @@ if __name__ == "__main__":
     info('\n****dynamic part one:Initialization****\n')
     sat_name = 'r11'
     sat_ip = f"10.1.0.{int(sat_name[1:])}"  # Dynamic IP: r11 -> 10.1.0.11
-    net.addLink('h1', net[sat_name], cls=TCLink, bw=5, delay='3.6667ms',max_queue_size=10,loss=0)
-    # net.addLink('h1', net[sat_name], cls=TCLink, bw=5, delay='3.6667ms',loss=0)
+    # net.addLink('h1', net[sat_name], cls=TCLink, bw=5, delay='3.6667ms',max_queue_size=10,loss=0)
+    net.addLink('h1', net[sat_name], cls=TCLink, bw=5, delay='3.6667ms',loss=0)
     link = net.linksBetween(h1, net[sat_name])[0]
     h1_intf = link.intf1.name
     sat_intf = link.intf2.name
@@ -292,8 +290,8 @@ if __name__ == "__main__":
     net[sat_name].cmd(f'ifconfig {sat_intf} {sat_ip} netmask 255.255.255.0')
     h1.cmd(f'route add default gw {sat_ip} dev {h1_intf}')
     
-    net.addLink('h2', net['r34'], cls=TCLink, bw=10, delay='3.6667ms', max_queue_size=10,loss=0)
-    # net.addLink('h2', net['r34'], cls=TCLink, bw=10, delay='3.6667ms',loss=0)
+    # net.addLink('h2', net['r34'], cls=TCLink, bw=10, delay='3.6667ms', max_queue_size=10,loss=0)
+    net.addLink('h2', net['r34'], cls=TCLink, bw=10, delay='3.6667ms',loss=0)
     link = net.linksBetween(h2, net['r34'])[0]
     h2_intf = link.intf1.name
     sat_intf = link.intf2.name
@@ -309,7 +307,7 @@ if __name__ == "__main__":
     ping_result = h2.cmd('ping -c 3 10.1.0.200')
     info(f"Ping result:\n{ping_result}\n")
 
-    os.system('sysctl net.ipv4.tcp_congestion_control=cubic')
+    os.system('sysctl net.ipv4.tcp_congestion_control=reno')
     os.system('sysctl net.ipv4.tcp_congestion_control')
 
     t1 = Thread(target=handover_and_rtt_thread_1, args=(net,h1,h2,1))
